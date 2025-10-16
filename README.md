@@ -26,11 +26,18 @@ Manual QA • Starting Test Automation • Web & Mobile • Playwright (Python) 
 - Documented test plans & checklists that teams can reuse
 
 ### 📌 Featured projects (pinned)
-- `playwright-python-web-template` – Boilerplate for web UI E2E tests with Actions CI
+- `playwright-python-web-template` – Production-ready Playwright framework with **100% bug detection rate** validation
+- `test-ecommerce-site` – Custom e-commerce site with **dual architecture** (working + buggy) for test validation
 - `qa-portfolio-cases` – Manual test plans, checklists, sample bug reports
-- `api-testing-samples` – Postman collections + pytest API examples
+- `api-testing-samples` – REST API testing with pytest + requests
 
 > 👉 See pinned repositories below for quick demos.
+
+### 🔥 Unique Portfolio Features
+- **Test Validation System** - Proven 100% bug detection (7/7 bugs caught including 2 critical security flaws)
+- **Real-World Testing** - Live tests on production sites (Outfittery.com)
+- **Custom Test Site** - Built TestShop e-commerce demo for automation practice
+- **50+ Test Cases** - Comprehensive coverage across authentication, e-commerce, responsive design
 
 ### 🤝 Work with me
 - **Freelance availability:** Part‑time / project‑based
