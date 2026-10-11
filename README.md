@@ -10,13 +10,13 @@ Manual QA • Starting Test Automation • Web & Mobile • Playwright (Python) 
 
 ### 🧪 What I do
 - **Manual QA:** test planning, exploratory testing, test case design, bug reporting.
-- **Automation (learning & doing):** Playwright (Python), pytest, basic API testing.
+- **Automation (learning & doing):** Playwright (TypeScript, Javascript), pytest, basic API testing.
 - **Tooling:** GitHub Actions, Jira, Notion, Google Sheets, Postman.
 - **Platforms:** Web (Chrome, Firefox, WebKit), Mobile (Android/iOS – exploratory & flows).
 
 ### 🛠️ Current Stack
-- **Languages:** Python, basic JavaScript
-- **Test Frameworks:** Playwright (Python), pytest
+- **Languages:** Python, basic JavaScript, TypeScript
+- **Test Frameworks:** Playwright (TypeScript, JavaScript)
 - **CI:** GitHub Actions
 - **Others:** JSON/YAML, Markdown, curl
 
